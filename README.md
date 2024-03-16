@@ -1,8 +1,10 @@
 # Spherocity-dependent Production analysis of K*(892) particle and its Polarization at \sqrt{s} = 13.6 TeV in ALICE Experiment
 **Authors : Sayan Dhani, Yash Patley** <br/>
-**Supervisor : - Prof. Sadhana Dash ( Dept. of Physics, IIT Bombay, India ) <br\>
-               - Prof. Basanta Kumar Nandi ( Dept. of Physics, IIT Bombay, India )** <br\>
+**Supervisor : 1) Prof. Sadhana Dash ( Dept. of Physics, IIT Bombay, India )
+               2) Prof. Basanta Kumar Nandi ( Dept. of Physics, IIT Bombay, India )** 
+
 **Timeline : April 2023 - Present**
+
 Description : 
 - Implemented spherocity dependence on K*(892) analysis from ALICE O2- Physics framework.
 - Reconstructed K892 from its decay channel to pion and Kion.
